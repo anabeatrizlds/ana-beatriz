@@ -1,44 +1,51 @@
 body{
-  background: #B0C4DE;
+  background:Navy
 }
 .principal{
-
-background: #4682B4;
-
+  background:##DCDCDC
 }
 .titulo-principal{
-  text-align: center;
-  font-size: 30px;
-  color: black;
+text-align: center;
+font-size: 50px;
+color: red
 }
-.titulo-secundario{
-  text-align: center;
-  font-size: 30px;
-  color: black;
+.titulo-principal2{
+  text-align:center;
+  color: blue
 }
 #missao{
-  font-size: 26px;
-  color: Black;
+  font-size:20px;
+  color:#DCDCDC;
   font-style: italic;
 }
 #missao2{
-  font-size: 26px;
-  color: Black;
-  font-style: italic;
+  font-size: 20px;
+  color: #DCDCDC
 }
 #missao3{
-  font-size: 26px;
-  color: Black;
+  font-size: 20px;
+  color:#DAA520	;
+}
+.benefecios{
+  font-style: italic;
+  background: blue
+}
+.titulo3{
+  color: red;
+}
+.itens{
   font-style: italic;
 }
 .titulo3{
-  text-align: center;
-  color: black;
-  font-style: italic;
+  background:#FFFFFF
+  padding:20px
 }
-.beneficios{
-  background: #4682B4
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
 }
-.beneficios2{
-  width: 26px;
+.benefecios2{
+  width: 50%;
 }
