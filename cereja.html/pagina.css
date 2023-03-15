@@ -1,9 +1,8 @@
-body{
-  background: #B0C4DE;
-}
-.principal{
+ body{
+   background:#D3D3D3;
 
-background: #4682B4;
+.principal{
+background: #87CEEB;
 
 }
 .titulo-principal{
@@ -12,14 +11,14 @@ background: #4682B4;
   color: black;
 }
 .titulo-secundario{
-  text-align: center;
+  text-align:center;
   font-size: 30px;
   color: black;
 }
 #missao{
   font-size: 26px;
   color: Black;
-  font-style: italic;
+  font-style:italic;
 }
 #missao2{
   font-size: 26px;
@@ -30,17 +29,17 @@ background: #4682B4;
   font-size: 26px;
   color: Black;
   font-style: italic;
-
 }
 .titulo3{
   text-align: center;
   color: black;
   font-style: italic;
-  font-size: 26px;
 }
 .beneficios{
-  background: #4682B4
+  background:#FFC0CB;
 }
 .beneficios2{
-  width: 350px;
+  width: 26px;
+  text-align: inherit;
+
 }
