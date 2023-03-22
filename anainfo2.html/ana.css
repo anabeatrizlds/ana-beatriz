@@ -1,0 +1,13 @@
+body{
+	background: #CCCCCC;
+}
+
+
+form {
+	display: block;
+}
+
+.input-padrao{
+	display:block;
+	margin: 0 0 10px;
+}

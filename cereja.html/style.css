@@ -1,5 +1,8 @@
+body{
+  background:#F5FFFA;
+}
 header{
-  background: #BBBBBB;
+  background:#D8BFD8;
 }
 .caixa{
   position: relative;
@@ -17,7 +20,7 @@ nav li{
 }
 nav a{
   text-transform: uppercase;
-  color: #000000;
+  color:black;
   font-weight: bold;
   font-size: 20px;
   text-decoration: none;
@@ -30,45 +33,34 @@ margin:0 auto;
 form{
   margin: 40px 0;
 }
+form label, form legend{
+ font-size: 20px;
+ display: block;
+ margin: 0 0 10px;
+ }
+
 .input-padrao{
   display: block;
-  margin:0 0 20px;
+  margin: 0 0 20px;
   padding: 10px 25px;
-  width: 50%;
+  width: 50%
 }
 .checkbox{
-  margin: 20px 0 ;
+  margin: 20px 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.enviar{
+  width: 200px;
+  padding: 15px 0;
+  background: lavenderblush;
+  color:black;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  transition: 1s all;
+  cursor: pointer;
+}
+.enviar:hover{
+background: lavenderblush;
+transform: scale(1.2);
+}
